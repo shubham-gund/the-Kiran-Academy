@@ -1,0 +1,5 @@
+com\tka\model\Player.class
+hibernateProject\SelectOperation.class
+hibernateProject\UpdateOperation.class
+hibernateProject\InsertOperation.class
+hibernateProject\SelectAllOperation.class
