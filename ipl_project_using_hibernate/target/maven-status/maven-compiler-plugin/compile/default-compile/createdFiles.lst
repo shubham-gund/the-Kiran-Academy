@@ -1,0 +1,6 @@
+com\tka\controller\IPLController.class
+com\tka\dao\IPLDao.class
+com\tka\service\IPLService.class
+com\tka\model\Player.class
+com\tka\client\Client.class
+com\tka\utility\HibernateUtility.class
